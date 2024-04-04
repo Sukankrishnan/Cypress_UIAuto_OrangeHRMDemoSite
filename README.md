@@ -29,18 +29,16 @@ Technology Used
 ----
 Before running the tests, ensure you have the following installed:
     1) Node.js (recommended version)
+    
     2) Cypress
 
 Installation
 ---
-1) Clone this repository to your local machine:
-git clone <repo_name>
+1) Clone this repository to your local machine: **git clone <repo_name>**
 
-2) Navigate into the cloned repository:
-cd <repo_name>
+2) Navigate into the cloned repository: **cd <repo_name>**
 
-3) Install the project dependencies:
-npm install
+3) Install the project dependencies: **npm install**
 
 Configuration
 --
@@ -63,13 +61,21 @@ Tests are located in the cypress/integration directory.
 Please take a look at the Cypress documentation for guidance on writing tests.
 
 Folder Structure
+--
 cypress/e2e: Contains test files.
+
 cypress/fixtures: Contains static data for testing.
+
 cypress/mindMaps: Contains the mindmap of each module for easy reference.
+
 cypress/pages: Contains object repository for storing all actions.
+
 cypress/screenshots: Automatically generated screenshots for failed tests.
+
 cypress/support: Contains support files such as commands and utilities.
-cypress/webLocators: Contains locators of all web elements
+
+cypress/webLocators: Contains locators of all web elements.
+
 Reporting: Allure Reports provide insights into test results, including pass/fail status, duration, and error messages.
 
 Continuous Integration
@@ -83,4 +89,5 @@ Contributions are welcome! If you find any issues or want to add new features/te
 Acknowledgments
 -
 Thanks to OrangeHRM for providing a platform for testing.
+
 Special thanks to the Cypress community for creating such an amazing testing framework.

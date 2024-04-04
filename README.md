@@ -4,8 +4,11 @@ This repository contains the information about UI Automation of OrangeHRM demo w
 Authors
 ---
 Sukanya
+
 Vishal
 
+Technology Used
+----
 **Programming Language:** Javascript
     
 **Testing Framework:** Cypress

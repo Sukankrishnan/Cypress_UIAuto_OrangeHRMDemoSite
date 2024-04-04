@@ -24,6 +24,8 @@ Technology Used
     
 **Test Data:** JSON
 
+**Test Management Tool:** JIRA
+
 
 **Prerequisites**
 ----

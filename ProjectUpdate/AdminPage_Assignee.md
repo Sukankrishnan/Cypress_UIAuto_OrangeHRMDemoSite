@@ -14,15 +14,15 @@
 |Admin                          |Qualifications               |Skills             |    | |
 |Admin                          |Qualifications               |Education          |    | |
 |Admin                          |Qualifications               |Licenses           |    |  |
-|Admin                          |Qualifications               |Languages          |    |--------------|-
+|Admin                          |Qualifications               |Languages          |    |     |
 |Admin                          |Qualifications               |Memberships        |    |  |
 |Admin                          |Nationalities                | -                 |Harshitha|  |
 |Admin                          |Corporate Branding           | -                 |    |  |
 |Admin                          |Configuration                |Email Configuration|    |  |
 |Admin                          |Configuration                |Email Subscriptions|    |  |
-|Admin                          |Configuration                |Localization       |    |--------------|-
-|Admin                          |Configuration                |Language Packages  |    |--------------|-
-|Admin                          |Configuration                |Modules            |    |--------------|-
-|Admin                          |Configuration                |Social Media Authentication|  |--------------|-
+|Admin                          |Configuration                |Localization       |    |  |
+|Admin                          |Configuration                |Language Packages  |    |  |
+|Admin                          |Configuration                |Modules            |    |  |
+|Admin                          |Configuration                |Social Media Authentication|  |  |
 |Admin                          |Configuration                |Register OAuth Client|  |--------------|-
 |Admin                          |Configuration                |LDAP Configuration |

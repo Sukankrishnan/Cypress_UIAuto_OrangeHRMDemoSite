@@ -24,5 +24,5 @@
 |Admin                          |Configuration                |Language Packages  |    |  |
 |Admin                          |Configuration                |Modules            |    |  |
 |Admin                          |Configuration                |Social Media Authentication|  |  |
-|Admin                          |Configuration                |Register OAuth Client|  |--------------|-
-|Admin                          |Configuration                |LDAP Configuration |
+|Admin                          |Configuration                |Register OAuth Client|  |  |
+|Admin                          |Configuration                |LDAP Configuration | ||

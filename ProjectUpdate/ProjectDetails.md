@@ -2,5 +2,6 @@
 |-------------------------------|-----------------------------|---------------|-------
 |Login                          |Login                        | -             |Sukanya   
 |Login                          |Forgot Password              | -             |Sukanya 
-|Admin                          |User Management              | Job Titles    |Vishal          
+|Admin                          |User Management              | User          |Sandeep          
+|Admin                          |Job                    | Job Titles          |
 |Admin              

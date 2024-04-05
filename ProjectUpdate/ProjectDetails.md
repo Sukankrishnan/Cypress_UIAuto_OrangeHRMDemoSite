@@ -8,4 +8,6 @@
 |Admin                          |Job                          | Employment Status |Anitha
 |Admin                          |Job                          | Job Categories    |Anitha
 |Admin                          |Job                          | Work Shifts       |
-|Admin              
+|Admin                          |Organization                 |General Information|
+|Admin                          |Organization                 |Locations          |
+|Admin                          |Organization                 |Structures         |

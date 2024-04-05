@@ -9,7 +9,7 @@
 |Admin                          |Job                          | Job Categories    |Anitha  | |
 |Admin                          |Job                          | Work Shifts       |    | |
 |Admin                          |Organization                 |General Information|    | |
-    |Admin                          |Organization                 |Locations          |    ||
+|Admin                          |Organization                 |Locations          |    ||
 |Admin                          |Organization                 |Structures         |    | |
 |Admin                          |Qualifications               |Skills             |    | |
 |Admin                          |Qualifications               |Education          |    | |

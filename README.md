@@ -4,11 +4,15 @@ This repository contains UI automation tests for OrangeHRM using Cypress. Cypres
 
 https://opensource-demo.orangehrmlive.com/
 
-Authors
+Contrubutors
 ---
         Sukanya
         
         Vishal
+
+        Anitha
+
+        Sandeep
 
 Technology Used
 ----

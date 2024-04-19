@@ -7,7 +7,7 @@
 |Admin                          |Job                          | Pay Grades        |Vishal  | |
 |Admin                          |Job                          | Employment Status |Anitha  | |
 |Admin                          |Job                          | Job Categories    |Anitha  | |
-|Admin                          |Job                          | Work Shifts       |    | |
+|Admin                          |Job                          | Work Shifts       |Sukanya | |
 |Admin                          |Organization                 |General Information|    | |
 |Admin                          |Organization                 |Locations          |    ||
 |Admin                          |Organization                 |Structures         |    | |

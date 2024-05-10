@@ -5,8 +5,8 @@
 |Admin                          |User Management              | User              |Sandeep | |
 |Admin                          |Job                          | Job Titles        |Vishal  | |
 |Admin                          |Job                          | Pay Grades        |Vishal  | |
-|Admin                          |Job                          | Employment Status |Anitha  | |
-|Admin                          |Job                          | Job Categories    |Anitha  | |
+|Admin                          |Job                          | Employment Status |Anitha  |In progress |
+|Admin                          |Job                          | Job Categories    |Anitha  |In progress|
 |Admin                          |Job                          | Work Shifts       |Sukanya | Completed|
 |Admin                          |Organization                 |General Information|Sukanya | Not Started|
 |Admin                          |Organization                 |Locations          |    ||

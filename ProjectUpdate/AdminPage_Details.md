@@ -1,14 +1,14 @@
 |Main Module                    |Sub-Module                   |Sub-Module         |Name    |Status    
 |-------------------------------|-----------------------------|-------------------|--------|--------
 |Login                          |Login                        | -                 |Sukanya | Completed                 
-|Login                          |Forgot Password              | -                 |Sukanya |              
+|Login                          |Forgot Password              | -                 |Sukanya | Not Started             
 |Admin                          |User Management              | User              |Sandeep | |
 |Admin                          |Job                          | Job Titles        |Vishal  | |
 |Admin                          |Job                          | Pay Grades        |Vishal  | |
 |Admin                          |Job                          | Employment Status |Anitha  | |
 |Admin                          |Job                          | Job Categories    |Anitha  | |
 |Admin                          |Job                          | Work Shifts       |Sukanya | Completed|
-|Admin                          |Organization                 |General Information|    | |
+|Admin                          |Organization                 |General Information|Sukanya | Not Started|
 |Admin                          |Organization                 |Locations          |    ||
 |Admin                          |Organization                 |Structures         |    | |
 |Admin                          |Qualifications               |Skills             |    | |

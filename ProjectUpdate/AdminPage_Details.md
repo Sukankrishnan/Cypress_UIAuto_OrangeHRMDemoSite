@@ -1,7 +1,7 @@
-|Main Module                    |Sub-Module                   |Sub-Module         |Name    |Start Date    |End Date
-|-------------------------------|-----------------------------|-------------------|--------|--------------|-
-|Login                          |Login                        | -                 |Sukanya |              |          
-|Login                          |Forgot Password              | -                 |Sukanya |              |
+|Main Module                    |Sub-Module                   |Sub-Module         |Name    |Status    
+|-------------------------------|-----------------------------|-------------------|--------|--------
+|Login                          |Login                        | -                 |Sukanya |                  
+|Login                          |Forgot Password              | -                 |Sukanya |              
 |Admin                          |User Management              | User              |Sandeep | |
 |Admin                          |Job                          | Job Titles        |Vishal  | |
 |Admin                          |Job                          | Pay Grades        |Vishal  | |

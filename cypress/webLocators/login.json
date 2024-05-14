@@ -1,0 +1,10 @@
+{
+    "login":
+    {
+        "userName": "[name='username']",
+        "password": "[name='password']",
+        "loginBtn": "button[type='submit']",
+        "forgotPassword": ".oxd-text.oxd-text--p.orangehrm-login-forgot-header"
+    }
+
+}

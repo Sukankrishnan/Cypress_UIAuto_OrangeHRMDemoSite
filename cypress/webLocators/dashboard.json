@@ -1,0 +1,10 @@
+{
+    "dashboard":
+    {
+        "orangeHRMLogo": "img[alt='client brand banner']",
+        "orangeHRMPage": "div>a>img[alt='OrangeHRM Logo']",
+        "search": ".oxd-input.oxd-input--active",
+        "admin": "#app > div.oxd-layout > div.oxd-layout-navigation > aside > nav > div.oxd-sidepanel-body > ul > li:nth-child(1) > a > span",
+        "leave": "a[href='/web/index.php/leave/viewLeaveModule']>span"
+    }
+}

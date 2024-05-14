@@ -1,0 +1,15 @@
+{
+    
+    "admin": "ul>li:nth-child(1)>a>span",
+    "pim": "ul>li:nth-child(2)>a>span",
+    "leave": "ul>li:nth-child(3)>a>span",
+    "time": "ul>li:nth-child(4)>a>span",
+    "recruitment": "ul>li:nth-child(5)>a>span",
+    "myInfo": "ul>li:nth-child(6)>a>span",
+    "performance": "ul>li:nth-child(7)>a>span",
+    "dashboard":"ul>li:nth-child(8)>a>span",
+    "directory": "ul>li:nth-child(9)>a>span",
+    "maintenance": "ul>li:nth-child(10)>a>span",
+    "claim": "ul>li:nth-child(11)>a>span",
+    "buzz": "ul>li:nth-child(12)>a>span"
+}

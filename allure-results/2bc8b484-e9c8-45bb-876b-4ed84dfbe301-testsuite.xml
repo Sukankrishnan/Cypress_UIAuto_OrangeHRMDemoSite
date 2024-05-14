@@ -1,0 +1,41 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1713878942398' stop='1713878942670'>
+    <name></name>
+    <title></title>
+    <test-cases>
+        <test-case start='1713878942403' status='broken' stop='1713878942629'>
+            <name>An uncaught error was detected outside of a test</name>
+            <title>An uncaught error was detected outside of a test</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+            <failure>
+                <message>The following error originated from your test code, not from Cypress.
+                
+                  > selectWorkShift is not defined
+                
+                When Cypress detects uncaught errors originating from your test code it will automatically fail the current test.
+                
+                Cypress could not associate this error to any specific test.
+                
+                We dynamically generated a new test to display this failure.</message>
+                <stack-trace>ReferenceError: The following error originated from your test code, not from Cypress.
+                
+                  > selectWorkShift is not defined
+                
+                When Cypress detects uncaught errors originating from your test code it will automatically fail the current test.
+                
+                Cypress could not associate this error to any specific test.
+                
+                We dynamically generated a new test to display this failure.
+                    at ./cypress/pages/adminJobWorkShifts.js (webpack://cypress_orangecrm/./cypress/pages/adminJobWorkShifts.js:4:0)
+                    at __webpack_require__ (webpack://cypress_orangecrm/webpack/bootstrap:19:0)
+                    at eval (webpack://cypress_orangecrm/./cypress/e2e/adminJobWorkShifts.cy.js:2:0)
+                    at eval (http://localhost:51820/__cypress/tests?p=cypress\e2e\adminJobWorkShifts.cy.js:187:3)
+                    at eval (http://localhost:51820/__cypress/tests?p=cypress\e2e\adminJobWorkShifts.cy.js:189:12)
+                    at eval (&lt;anonymous>)</stack-trace>
+            </failure>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

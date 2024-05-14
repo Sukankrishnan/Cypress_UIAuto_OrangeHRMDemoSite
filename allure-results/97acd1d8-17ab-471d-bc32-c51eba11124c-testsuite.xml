@@ -1,0 +1,57 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1713878944160' stop='1713878944328'>
+    <name></name>
+    <title></title>
+    <test-cases>
+        <test-case start='1713878944163' status='broken' stop='1713878944321'>
+            <name>An uncaught error was detected outside of a test</name>
+            <title>An uncaught error was detected outside of a test</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+            <failure>
+                <message>The following error originated from your test code, not from Cypress.
+                
+                  > Test argument "title" should be a string. Received type "undefined"
+                
+                When Cypress detects uncaught errors originating from your test code it will automatically fail the current test.
+                
+                Cypress could not associate this error to any specific test.
+                
+                We dynamically generated a new test to display this failure.</message>
+                <stack-trace>TypeError: The following error originated from your test code, not from Cypress.
+                
+                  > Test argument "title" should be a string. Received type "undefined"
+                
+                When Cypress detects uncaught errors originating from your test code it will automatically fail the current test.
+                
+                Cypress could not associate this error to any specific test.
+                
+                We dynamically generated a new test to display this failure.
+                    at createInvalidArgumentTypeError (http://localhost:51820/__cypress/runner/cypress_runner.js:154932:13)
+                    at new Test (http://localhost:51820/__cypress/runner/cypress_runner.js:161003:11)
+                    at context.it.context.specify (http://localhost:51820/__cypress/runner/cypress_runner.js:160944:18)
+                    at createRunnable (http://localhost:51820/__cypress/runner/cypress_runner.js:145512:31)
+                    at &lt;unknown> (http://localhost:51820/__cypress/runner/cypress_runner.js:145573:14)
+                    at Object.create (http://localhost:51820/__cypress/runner/cypress_runner.js:161180:19)
+                    at context.describe.context.context (http://localhost:51820/__cypress/runner/cypress_runner.js:160899:27)
+                    at createRunnable (http://localhost:51820/__cypress/runner/cypress_runner.js:145512:31)
+                    at &lt;unknown> (http://localhost:51820/__cypress/runner/cypress_runner.js:145573:14)
+                    at &lt;unknown> (http://localhost:51820/__cypress/runner/cypress_runner.js:110838:23)
+                    at tryCatcher (http://localhost:51820/__cypress/runner/cypress_runner.js:1807:23)
+                    at Object.gotValue (http://localhost:51820/__cypress/runner/cypress_runner.js:6476:18)
+                    at Object.gotAccum (http://localhost:51820/__cypress/runner/cypress_runner.js:6465:25)
+                    at Object.tryCatcher (http://localhost:51820/__cypress/runner/cypress_runner.js:1807:23)
+                    at Promise._settlePromiseFromHandler (http://localhost:51820/__cypress/runner/cypress_runner.js:1519:31)
+                    at Promise._settlePromise (http://localhost:51820/__cypress/runner/cypress_runner.js:1576:18)
+                    at Promise._settlePromise0 (http://localhost:51820/__cypress/runner/cypress_runner.js:1621:10)
+                    at Promise._settlePromises (http://localhost:51820/__cypress/runner/cypress_runner.js:1701:18)
+                    at _drainQueueStep (http://localhost:51820/__cypress/runner/cypress_runner.js:2407:12)
+                    at _drainQueue (http://localhost:51820/__cypress/runner/cypress_runner.js:2400:9)
+                    at Async._drainQueues (http://localhost:51820/__cypress/runner/cypress_runner.js:2416:5)
+                    at Async.drainQueues (http://localhost:51820/__cypress/runner/cypress_runner.js:2286:14)</stack-trace>
+            </failure>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

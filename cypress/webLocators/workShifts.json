@@ -1,0 +1,20 @@
+{
+    "workShiftsTitle": "oxd-text.oxd-text--h6.orangehrm-main-title",
+    "add": "button[class='oxd-button oxd-button--medium oxd-button--secondary']",
+    "addWorkShiftTitle": ".oxd-text.oxd-text--h6.orangehrm-main-title",
+    "shiftName": "div.oxd-input-group.oxd-input-field-bottom-space>div:nth-child(2)>[class='oxd-input oxd-input--active']",
+    "fromWorkingHours": "div[class='oxd-grid-4 orangehrm-full-width-grid']>div:nth-child(1)>div>div>div>div>i[class='oxd-icon bi-clock oxd-time-input--clock']",
+    "toWorkingHours": "div[class='oxd-grid-4 orangehrm-full-width-grid']>div:nth-child(2)>div>div>div>div>i[class='oxd-icon bi-clock oxd-time-input--clock']",
+    "hourUpArrow": "div.oxd-time-hour-input>i:nth-child(1)",
+    "hourText": "div.oxd-time-hour-input>:nth-child(2)",
+    "hourDownArrow": "div.oxd-time-hour-input>:nth-child(3)",
+    "minuteUpArrow": "div.oxd-time-minute-input>i:nth-child(1)",
+    "minuteText": "div.oxd-time-minute-input>:nth-child(2)",
+    "minuteDownArrow": "div.oxd-time-minute-input>:nth-child(3)",
+    "am": "[name='am']",
+    "pm": "[name='pm']",
+    "durationPerDay": ".oxd-input-group>:nth-child(2)>.oxd-text",
+    "saveNewWorkShift": "button[type='submit']",
+    "workShiftTable": "div.oxd-table-cell"
+
+    }

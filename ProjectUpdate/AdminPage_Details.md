@@ -9,8 +9,8 @@
 |Admin                          |Job                          | Job Categories    |Anitha  |In progress|
 |Admin                          |Job                          | Work Shifts       |Sukanya | Completed|
 |Admin                          |Organization                 |General Information|Sukanya | Not Started|
-|Admin                          |Organization                 |Locations          |    ||
-|Admin                          |Organization                 |Structures         |    | |
+|Admin                          |Organization                 |Locations          |        |   |
+|Admin                          |Organization                 |Structures         |        | |
 |Admin                          |Qualifications               |Skills             |    | |
 |Admin                          |Qualifications               |Education          |    | |
 |Admin                          |Qualifications               |Licenses           |    |  |

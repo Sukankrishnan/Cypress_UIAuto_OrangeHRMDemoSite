@@ -1,5 +1,6 @@
 import mainMenuLocators from "../webLocators/mainMenu.json"
 import adminLocators from "../webLocators/admin.json"
+import workShiftsLocators from "../webLocators/workShifts.json"
 
 export class adminJobWorkShifts
 
@@ -23,23 +24,23 @@ export class adminJobWorkShifts
                 //select 'Work shifts'
                 cy.get(adminLocators.job.workShifts).click()
                 //cy.get(adminLocators.workShiftsMenu.workShiftsTitle).should('contain','Work')
-                cy.get(adminLocators.workShiftsMenu.add).click()
+                cy.get(workShiftsLocators.add).click()
                 //cy.get(adminLocators.workShiftsMenu.addWorkShiftTitle).should('contain','Add')
                 var newName=this.generateRandomName()
-                cy.get(adminLocators.workShiftsMenu.shiftName).type(newName)
-                cy.get(adminLocators.workShiftsMenu.fromWorkingHours).click()
+                cy.get(workShiftsLocators.shiftName).type(newName)
+                cy.get(workShiftsLocators.fromWorkingHours).click()
                 //cy.get(adminLocators.workShiftsMenu.hour).click()
                 //cy.get(adminLocators.workShiftsMenu.hour).type("10")
-                cy.get(adminLocators.workShiftsMenu.hourUpArrow).click()
-                cy.get(adminLocators.workShiftsMenu.toWorkingHours).click()
-                cy.get(adminLocators.workShiftsMenu.minuteUpArrow).click()
-                cy.get(adminLocators.workShiftsMenu.pm).click()
-                cy.get(adminLocators.workShiftsMenu.durationPerDay)
+                cy.get(workShiftsLocators.hourUpArrow).click()
+                cy.get(workShiftsLocators.toWorkingHours).click()
+                cy.get(workShiftsLocators.minuteUpArrow).click()
+                cy.get(workShiftsLocators.pm).click()
+                cy.get(workShiftsLocators.durationPerDay)
                     .click()
                     .should('contain','7.25')
-                cy.get(adminLocators.workShiftsMenu.saveNewWorkShift).click()
+                cy.get(workShiftsLocators.saveNewWorkShift).click()
                 cy.wait(6000) // takes time to add wirk shift in the table
-                cy.get(adminLocators.workShiftsMenu.workShiftTable)
+                cy.get(workShiftsLocators.workShiftTable)
                     .should('contain', newName) //validate the added new name in table
                 
                     

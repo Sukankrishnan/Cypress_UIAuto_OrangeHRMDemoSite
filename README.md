@@ -84,6 +84,8 @@ Contributing
 -
 Contributions are welcome! If you find any issues or want to add new features/tests, feel free to submit a pull request.
 
+Contributors list is maintained in Project Update folder.
+
 Acknowledgments
 -
 Thanks to OrangeHRM for providing a platform for testing.

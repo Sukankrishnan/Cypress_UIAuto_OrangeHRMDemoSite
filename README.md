@@ -23,6 +23,22 @@ Folder Structure:
 
 **•	Cypress Pages (Page Objects):** Declares methods related to specific components or pages, following the Page Object Model (POM) for enhanced code maintainability and readability.
 
-**•	Cypress Weblocators:** Stores XPath and CSS Selector locators for web page elements, aiding in precise identification and interaction during test execution.
+**cypress/support:** Contains support files such as commands and utilities.
 
-**•	Other Files:** Includes cypress.config.js for project settings like base URLs, and package.json for project metadata and dependencies, facilitating efficient project management and test execution.
+**cypress/webLocators:** Contains locators of all web elements.
+
+**Reporting:** Allure Reports provide insights into test results, including pass/fail status, duration, and error messages.
+
+Continuous Integration
+-
+This repository can be integrated with Jenkins for CI/CD pipelines for automated testing on each commit or pull request.
+
+Contributing
+-
+Contributions are welcome! If you find any issues or want to add new features/tests, feel free to submit a pull request.
+
+Acknowledgments
+-
+Thanks to OrangeHRM for providing a platform for testing.
+
+Special thanks to the Cypress community for creating such an amazing testing framework.

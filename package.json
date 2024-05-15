@@ -4,7 +4,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "browser:chrome": "npx cypress run --browser=chrome --headed --spec cypress/e2e/loginApp.cy.js --reporter mocha-allure-reporter",
+    "browser:chrome": "npx cypress run --browser=chrome --headed --reporter mocha-allure-reporter",
     "report:allure": "allure generate allure-results --clean allure-report && allure open  allure-report",
     "cypress-cloud-run": "npx cypress run --record --key 9c7b886e-3433-420e-84ba-b26692a7f0dc"
   },

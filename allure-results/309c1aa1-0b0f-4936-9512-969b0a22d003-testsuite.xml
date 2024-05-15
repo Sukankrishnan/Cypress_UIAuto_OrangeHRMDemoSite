@@ -1,0 +1,15 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1715772525260' stop='1715772549405'>
+    <name>Admin-Job-Work Shifts</name>
+    <title>Admin-Job-Work Shifts</title>
+    <test-cases>
+        <test-case start='1715772525260' status='passed' stop='1715772549405'>
+            <name>Landing Admin page</name>
+            <title>Landing Admin page</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

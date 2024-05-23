@@ -16,7 +16,7 @@ export class adminJobWorkShifts
             cy.wait(2000)
                 //select Admin page
                 cy.get(mainMenuLocators.admin).click()
-                //cy.get(adminLocators.adminTitle).should('contain','administrator')
+                //cy.get(adminLocators.adminTitle).should('contain','admin')
                 console.log("Landed on Admin page")
                 //click Job dropdown
                 cy.get(adminLocators.dropdown.job).click()

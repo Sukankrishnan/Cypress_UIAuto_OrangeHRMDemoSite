@@ -1,0 +1,11 @@
+{
+    "generalInformationTitle": "oxd-text oxd-text--h6 orangehrm-main-title",
+    "orgName": "oxd-label oxd-input-field-required",
+    "orgNameText": "div.oxd-grid-item.oxd-grid-item--gutters.organization-name-container>div>div:nth-child(2)",
+    "noOfEmployees": "div.oxd-grid-item.oxd-grid-item--gutters:nth-child(2)>div>div:nth-child(1)",
+    "noOfEmployeesValue": "div.oxd-grid-item.oxd-grid-item--gutters:nth-child(2)>div>div:nth-child(2)",
+    "registrationNumber": "div.oxd-form-row:nth-child(2)>div>div:nth-child(1)>div>div.oxd-input-group__label-wrapper",
+    "registrationNumberValue": "div.oxd-form-row:nth-child(2)>div>div:nth-child(1)>div>div:nth-child(2)",
+    "taxID": "div.oxd-form-row:nth-child(2)>div>div:nth-child(2)>div>div.oxd-input-group__label-wrapper",
+    "taxIDValue": "div.oxd-form-row:nth-child(2)>div>div:nth-child(2)>div>div:nth-child(2)"
+}

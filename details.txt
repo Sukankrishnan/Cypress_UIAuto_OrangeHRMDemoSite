@@ -4,6 +4,8 @@ Dependencies to install:
 --------------------------------------------
 npm install --save-dev mocha-allure-reporter allure-commandline
 
+save below commands in package.json
+
 Script for test execution:
 -------------------------------------------
 "browser:chrome": "npx cypress run --browser=chrome --headed --spec cypress/e2e/<filename.cy.js>> --reporter mocha-allure-reporter",

@@ -4,7 +4,7 @@
     "dropdown":{
         "userManagement": "li:nth-child(1)>span.oxd-topbar-body-nav-tab-item",
         "job": "li:nth-child(2)>span.oxd-topbar-body-nav-tab-item",
-        "organizations": "li:nth-child(3)>span.oxd-topbar-body-nav-tab-item",
+        "organization": "li:nth-child(3)>span.oxd-topbar-body-nav-tab-item",
         "qualifications": "li:nth-child(4)>span.oxd-topbar-body-nav-tab-item"
     },
 
@@ -15,5 +15,12 @@
         "employmentStatus": "li:nth-child(3)>a.oxd-topbar-body-nav-tab-link",
         "jobCategories": "li:nth-child(4)>a.oxd-topbar-body-nav-tab-link",
         "workShifts": "li:nth-child(5)>a.oxd-topbar-body-nav-tab-link"
+    },
+
+    "organization":
+    {
+        "generalInformation": "ul.oxd-dropdown-menu>li:nth-child(1)",
+        "locations": "ul.oxd-dropdown-menu>li:nth-child(2)",
+        "structure": "ul.oxd-dropdown-menu>li:nth-child(3)"
     }
 }
